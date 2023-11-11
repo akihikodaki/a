@@ -1,0 +1,11 @@
+# SPDX-License-Identifier: 0BSD
+
+[submodule "coreboot"]
+	path = coreboot
+	url = https://review.coreboot.org/coreboot.git
+[submodule "edk2"]
+	path = edk2
+	url = ../edk2.git
+[submodule "flashrom"]
+	path = flashrom
+	url = https://chromium.googlesource.com/chromiumos/third_party/flashrom

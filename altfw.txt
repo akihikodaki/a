@@ -1,0 +1,4 @@
+1;altfw/u-boot;U-Boot;U-Boot bootloader
+2;altfw/tianocore;TianoCore;TianoCore bootloader
+3;altfw/a;a;a
+0;altfw/a;a;a
